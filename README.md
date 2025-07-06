@@ -9,7 +9,7 @@
 
 <!-- Title and Waving Hand -->
 <h1 align="center">
-  Namaste! I'm Deepanshu Chhikara
+  Hi! I'm Deepanshu Chhikara
   <a href="https://github.com/YourGitHubUsername">
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="👋">
   </a>
